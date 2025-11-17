@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://bxa30ptwedevc"]
+
+[node name="Control" type="Control"]
+layout_mode = 3

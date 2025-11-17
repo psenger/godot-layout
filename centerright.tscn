@@ -1,0 +1,26 @@
+[gd_scene format=3 uid="uid://daecjauuxdvnk"]
+
+[node name="RightHandControls" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+metadata/_edit_use_anchors_ = true
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 1.0
+anchor_top = 0.5
+anchor_right = 1.0
+anchor_bottom = 0.5
+offset_left = -110.0
+offset_top = -150.0
+offset_right = -10.0
+offset_bottom = 150.0
+grow_horizontal = 0
+grow_vertical = 2
+color = Color(0.6077802, 0.8252668, 0.9553186, 1)
+metadata/_edit_use_anchors_ = true
